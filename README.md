@@ -1,7 +1,7 @@
 # deepanshu-mylibrary-site
 A Platform to view, and read books
 
-Important Features
+# Important Features
 Login and Signup
 Homepage displays the current available books
 Preiew book details by clicking on the book
@@ -10,12 +10,13 @@ Add author
 Link book with author name
 Search using keyword of book or author
 
-Tech stack used
+# Tech stack used
 CSS
 Bootstrap
 Javascript
 Handlebars
-Steps to setup the project
+
+# Steps to setup the project
 Install Node.js
 Clone this repository git clone https://github.com/deepanshuoct12/deepanshu-mylibrary-site
 Install all the dependencies npm install
