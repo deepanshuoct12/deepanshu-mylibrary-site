@@ -2,7 +2,6 @@
 -`A Platform to view, and read books`<br />
 
 ## Important Features
--`Login and Signup`<br />
 -`Homepage displays the current available books`<br />
 -`Preiew book details by clicking on the book`<br />
 -`Add a new book to the library`<br />
