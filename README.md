@@ -11,7 +11,7 @@
 
 ## Tech stack used
 -`CSS`<br />
--`HTML5`<br />
+-`EJS`<br />
 -`Javascript`<br />
 -`Handlebars`<br />
 
